@@ -1,0 +1,2 @@
+# NooploopUWBDataProcessor
+一个用于处理NooploopUWB传感器数据的python库，集成了无际卡尔曼滤波器、指数平滑、三次样条差值算法，并提供UDP数据转发逻辑
